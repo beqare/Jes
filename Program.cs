@@ -7,7 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Willkommen zu meiner .NET Konsole App!");
-            Console.WriteLine("Drücken Sie eine beliebige Taste, um die Anwendung zu beenden...");
+            Console.WriteLine("Drücken Sie eisne beliebige Taste, um die Anwendung zu beenden...");
             Console.ReadKey();
         }
     }
