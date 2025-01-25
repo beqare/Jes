@@ -1,0 +1,30 @@
+# Build-Verzeichnisse
+bin/
+obj/
+out/
+
+# Benutzer- und IDE-Dateien
+*.user
+*.suo
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+# Log-Dateien
+*.log
+
+# Secrets
+appsettings.Development.json
+*.pfx
+*.key
+
+# Generierte Dateien
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Betriebssystem-Spezifisches
+Thumbs.db
+.DS_Store
