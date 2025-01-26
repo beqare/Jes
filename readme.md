@@ -21,8 +21,9 @@ Here are the key commands for running and publishing the program:
   ```
 
 - **Publish the program:**
+
   ```bash
-  dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+  dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:IncludeAllContentForSelfExtract=true /p:TrimMode=Link
   ```
 
 This will create a self-contained executable file for Windows (x64 architecture).
