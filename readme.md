@@ -1,7 +1,5 @@
 ## **JaEsSoll**
 
-### DOWNLOAD LATEST VERSION:
-
 [Download](https://github.com/beqare/Jes/releases/latest/download/Jes.exe)
 
 ---
