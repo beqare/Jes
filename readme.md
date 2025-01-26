@@ -6,7 +6,7 @@
 
 **A Custom Tool for Tweaks**
 
-**JaEsSoll** is a program I developed in **C# .NET** to execute specific tweaks efficiently.
+**JaEsSoll** is a program I developed in **C# .NET** to efficiently free up your PC's memory by removing unnecessary temporary files.
 
 ### **Prerequisites**
 
