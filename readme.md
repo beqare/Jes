@@ -2,7 +2,7 @@
 
 ### DOWNLOAD LATEST VERSION:
 
-[![Download](https://github.com/beqare/Jes/releases/latest/download/Jes.exe)]
+[Download](https://github.com/beqare/Jes/releases/latest/download/Jes.exe)
 
 **A Custom Tool for Tweaks**
 
