@@ -1,10 +1,28 @@
-# Jes - JaEsSoll
+---
 
-JaEsSoll ist ein Programm von mir entwickelt um spezielle Tweaks auszuführen, geschrieben in C# .NET
+## **JaEsSoll**  
+**A Custom Tool for Tweaks**  
 
-Falls die ausführung nicht klappt, solltest du .NET installieren, dazu öffne folgenden Link: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download) NET9.0
+**JaEsSoll** is a program I developed in **C# .NET** to execute specific tweaks efficiently.  
 
-### Befehle für mich
+### **Prerequisites**  
+If the program does not run, ensure you have the correct version of .NET installed.  
+Follow this link to download and install .NET:  
+[https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download) (Currently targeting .NET 9.0)  
 
-- `dotnet run` ausführen
-- `dotnet publish -c Release -r win-x64 --self-contained true` publish
+### **Developer Commands**  
+Here are the key commands for running and publishing the program:  
+
+- **Run the program:**  
+  ```bash
+  dotnet run
+  ```  
+
+- **Publish the program:**  
+  ```bash
+  dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+  ```  
+
+This will create a self-contained executable file for Windows (x64 architecture).  
+
+---
