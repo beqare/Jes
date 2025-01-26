@@ -1,5 +1,3 @@
----
-
 ## **JaEsSoll**  
 **A Custom Tool for Tweaks**  
 
@@ -24,5 +22,3 @@ Here are the key commands for running and publishing the program:
   ```  
 
 This will create a self-contained executable file for Windows (x64 architecture).  
-
----
