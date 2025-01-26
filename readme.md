@@ -1,6 +1,7 @@
 ## **JaEsSoll**
 
 [Download](https://github.com/beqare/Jes/releases/latest/download/Jes.exe)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/beqare/Jes/total)
 
 ---
 
