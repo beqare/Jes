@@ -4,6 +4,8 @@
 
 [Download](https://github.com/beqare/Jes/releases/latest/download/Jes.exe)
 
+---
+
 **A Custom Tool for Tweaks**
 
 **JaEsSoll** is a program I developed in **C# .NET** to execute specific tweaks efficiently.
